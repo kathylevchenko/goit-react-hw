@@ -1,6 +1,6 @@
 .container {
     background-color: #fafaff;
-    width: 240px;
+    width: 340px;
     margin: 0 auto;
     margin-top: 40px;
     border: 2px solid #151515;
@@ -52,9 +52,9 @@
     align-items: center;
     justify-content: center;
     background-color: rgb(165, 160, 160);
-    border-top: 2px solid gray;
-    border-right: 2px solid gray;
-    width: 79px;
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 112px;
     gap: 8px;
   }
   .list .listItem:nth-child(n + 3) {
